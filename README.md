@@ -1,4 +1,4 @@
-### Code for fun & money.
+### |>
 
 - 🔭 I’m currently working on build scalable products.
 - 🌱 I’m currently learning to learn.
